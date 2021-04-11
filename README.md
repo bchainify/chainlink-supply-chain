@@ -35,7 +35,10 @@ Amazon Standard Identification Number (ASIN) is a ten-digit alphanumeric code th
 
 And many more.... Our solution also aims to support custom off-chain data sources to create custom QR-Codes with information for the product or good using a non-fungible-tokens (NFT) for DApps running on Chainlink.  
 
-See our Project Github repo for more details https://github.com/bchainify/chainlink-supply-chain/wiki.
+See our Project Github wiki for more details https://github.com/bchainify/chainlink-supply-chain/wiki.
+
+<img src="https://github.com/bchainify/chainlink-supply-chain/blob/main/mktg/BChainify_Market-on-Chain_dApp.png" width="60%" height="60%">
+
 
 ## How we built it
 Frontend: React, javascript, HTML
