@@ -33,7 +33,7 @@ Books often use the International Standard Book Number (ISBN) barcode format, wh
 * Amazon (ASIN)
 Amazon Standard Identification Number (ASIN) is a ten-digit alphanumeric code that identifies products on Amazon. It's unique for each product and is assigned when you create a new product in Amazon's catalog.
 
-And many more.... Our solution also aims to support custom off-chain data sources to create custom QR-Codes with information for the product or good using a non-fungible-tokens (NFT) for DApps running on Chainlink.  
+And many more.... Our solution also aims to support custom off-chain data sources to create custom QR-Codes with information for the product or good using a non-fungible-tokens (NFT) for dApps running on Chainlink.  
 
 See our Project Github wiki for more details https://github.com/bchainify/chainlink-supply-chain/wiki.
 
